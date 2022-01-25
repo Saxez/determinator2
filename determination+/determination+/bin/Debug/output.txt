@@ -1,0 +1,8 @@
+S ->  xCDB| aFI| yJ
+CDB ->  xB| yJG
+FI ->  bC| aI| xB| yJ
+J ->  yJ
+B ->
+JG ->  yJG| xB
+C ->  xB| yJ
+I ->  aI| xB| yJ

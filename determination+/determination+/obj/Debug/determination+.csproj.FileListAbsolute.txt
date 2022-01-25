@@ -1,0 +1,7 @@
+C:\Users\Данила\source\repos\determination+\determination+\bin\Debug\determination+.exe.config
+C:\Users\Данила\source\repos\determination+\determination+\bin\Debug\determination+.exe
+C:\Users\Данила\source\repos\determination+\determination+\bin\Debug\determination+.pdb
+C:\Users\Данила\source\repos\determination+\determination+\obj\Debug\determination+.csproj.AssemblyReference.cache
+C:\Users\Данила\source\repos\determination+\determination+\obj\Debug\determination+.csproj.CoreCompileInputs.cache
+C:\Users\Данила\source\repos\determination+\determination+\obj\Debug\determination+.exe
+C:\Users\Данила\source\repos\determination+\determination+\obj\Debug\determination+.pdb
